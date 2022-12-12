@@ -1,0 +1,29 @@
+body {
+    background-color:#6891a7;
+    
+}
+
+h1 {
+    background-color:#1f4f63;
+    font-size: 30px;
+  
+}
+
+p {
+    font-size: 20px; 
+}
+
+h2 {
+    border-style: double;
+    border-color:#06394c;
+}
+
+a {
+    border-style: double;
+    border-color: #1f4f63;
+    color: #06394c;
+    font-size: 30px;
+}
+
+
+    
